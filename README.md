@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.im.ge/2022/05/31/r8QiYX.png" width="100" alt="Memoji"/>
+  <img src="/Memoji.png" width="100" alt="Memoji"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/matheus-possas/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
